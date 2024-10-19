@@ -1,35 +1,63 @@
-# Safetyaro Limited
+# Foodguard Solutions
 
-## Welcome to Safetyaro Limited
-We are a dedicated food safety and hygiene consultancy company based in Kenya, offering a comprehensive range of services to ensure the highest standards of food safety across the industry.
+## Welcome to Foodguard Solutions
+We are a leading food safety and quality consultancy company based in Kenya, committed to empowering businesses in the food industry to meet and exceed the highest standards of safety, quality, and hygiene.
 
 ### Our Mission
-Our aim is to provide genuinely simple safety solutions, establish long-term relationships with our clients, and ensure complete satisfaction through our great service. We believe in educating and empowering our clients on the journey of growth and witnessing the benefits of food safety systems and certification.
+To safeguard public health by equipping food industry stakeholders with the knowledge, tools, and strategies they need to uphold superior food safety standards, ensuring sustainable, ethical, and high-quality food systems.
+
+### Our Vision
+To be the leading food safety and quality consultancy firm in Africa and beyond, ensuring that every meal served is safe, of highest quality and produced under the highest standards of hygiene.
+
+### Our Values
+- Integrity
+- Excellence
+- Sustainability
+- Innovation
+- Client-Centered Approach
 
 ### Our Services
-- **Food Safety Management System Implementation**: Assistance with BRC, SQF, ISO, GLOBAL GAP.
-- **Audits**: Conducting detailed food safety audits.
-- **HACCP Compliance**: Helping businesses meet Hazard Analysis Critical Control Point standards.
-- **ISO Standards**: Guidance and implementation for food safety and hygiene.
-- **Training**: Providing health and safety training.
-- **Supplier Management**: Offering supplier risk assessments and rapid hygiene monitoring solutions.
-- **Hygiene PPE Solutions**: Supply of food-grade gloves, protective workwear, and color-coded equipment.
-- **Pest Control**: Offering solutions for pest management.
+1. Food Safety Audits & Inspections
+2. Quality Assurance and Control Systems Development
+3. Hygiene Management & Monitoring
+4. Regulatory Compliance Support
+5. Aflatoxin Management
+6. Training & Capability Building
+7. Risk Assessment & Crisis Management
+8. Supply Chain & Vendor Audits
+9. Product Recall Assistance
+10. Laboratory Services
+
+### Industries We Serve
+- Food and Beverage Manufacturing
+- Agriculture and Farming
+- Retail Chains and Supermarkets
+- Hospitality and Catering
+- Food Storage and Distribution
+- Schools, Hospitals, and Institutions
+- Government and Regulatory Bodies
+- NGOs involved in Food Aid and Safety Initiatives
+
+### Why Choose Foodguard Solutions?
+- Experienced and Multidisciplinary Team
+- Tailored Solutions
+- Global Standards Expertise
+- End-to-End Support
+- Commitment to Sustainability
 
 ### Training Programs
-We offer a variety of training programs to suit the needs of various roles within the food industry, including:
-- Basic food hygiene training/food safety for food handlers.
-- HACCP training.
-- Food allergen training and control.
-- Advanced food safety training for managers and supervisors.
-- Health and safety training.
+We offer a variety of training programs, including:
+- Food safety management systems
+- HACCP implementation
+- Good manufacturing practices (GMP)
+- Hygiene standards
 
 ### Our Commitment
-Our approach is to simplify safety management systems without detracting from the value they provide. We offer practical and appropriate solutions for our clients, backed by a team dedicated to ensuring food safety and industry compliance.
+At Foodguard Solutions, we are dedicated to delivering world-class consultancy services tailored to the unique needs of each client. Our goal is to ensure that the food you produce, handle, or sell is safe for consumption, meets international quality benchmarks, and is free from contamination risks.
 
 ### Contact Us
 For more information on our services or to schedule a consultation:
-- Email: [safetyaro@gmail.com](mailto:safetyaro@gmail.com)
-- Phone: 0720440111 / 0714176840
+- Email: [dkavunja@gmail.com](mailto:dkavunja@gmail.com)
+- Phone: +254 714176840
 
-Join us in ensuring success in all areas of the food industry.
+Join us in ensuring success and safety across all areas of the food industry.
